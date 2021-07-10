@@ -18,7 +18,7 @@ You may also download ratings data directly from the [MovieLens website](https:/
 
   @inproceedings{manzoorRbcrs,
      title={Generation-based vs. Retrieval-based Conversational Recommendation: A User-Centric Comparison},
-     author={Manzoor, Ahtsham and, Jannach, Dietmar},
+     author={Manzoor, Ahtsham and Jannach, Dietmar},
      booktitle={RecSys '21},
      year={2021}
  }
