@@ -1,5 +1,5 @@
 # RB-CRS
-# "Generation-based vs. Retrieval-based Conversational Recommendation: A User-Centric Comparison"
+## "Generation-based vs. Retrieval-based Conversational Recommendation: A User-Centric Comparison"
 
 We have two main directories at the root level.
 1. The first named ‘RB-CRS Code’ contains the complete Python source code for our own developed retrieval-based recommender system. 
