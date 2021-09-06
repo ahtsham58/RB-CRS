@@ -16,11 +16,17 @@ You may also download ratings data directly from the [MovieLens website](https:/
 ## **Citation**
 ```
 
-  @inproceedings{manzoorRbcrs,
-     title={Generation-based vs. Retrieval-based Conversational Recommendation: A User-Centric Comparison},
-     author={Manzoor, Ahtsham and Jannach, Dietmar},
-     booktitle={RecSys '21},
-     year={2021}
- }
+@article{MANZOOR2021100139,
+title = {Conversational recommendation based on end-to-end learning: How far are we?},
+journal = {Computers in Human Behavior Reports},
+volume = {4},
+pages = {100139},
+year = {2021},
+issn = {2451-9588},
+doi = {https://doi.org/10.1016/j.chbr.2021.100139},
+url = {https://www.sciencedirect.com/science/article/pii/S2451958821000877},
+author = {Ahtsham Manzoor and Dietmar Jannach},
+keywords = {Conversational recommender systems, Evaluation, End-to-end learning},
+}
 
 ```
