@@ -31,7 +31,4 @@ keywords = {End-to-end Learning, Evaluation, Conversational Recommendation, Retr
 location = {Amsterdam, Netherlands},
 series = {RecSys '21}
 }
-
-
-
 ```
